@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Task:
+Напишите простую форму ввода расходов. Таблица transactions: id, dateTime, author, sum, category, comment
+Форма: Дата (календарь), Сумма, Категория (из списка, любые пару-тройку вариантов можете накидать), Комментарий
+React, Express, Nest, SQL
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
